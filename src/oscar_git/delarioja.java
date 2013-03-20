@@ -15,7 +15,7 @@ if(n>99 && n<1000){
 	if(n%2==0){
 		System.out.println("Es par");
 	}else{//if
-		System.out.println("Es impar");
+		System.out.println("NO es par"); // <--- MODIFICACION
 	}//else
 }else{//if
 	System.out.println("Me la estas contando!!");
